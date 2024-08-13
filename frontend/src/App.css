@@ -1,0 +1,12 @@
+/* body{
+    background-color: #F3F7EC;
+} */
+
+
+body{
+    /* background-color: #5A639C; */
+    min-height: 96vh;
+    background: linear-gradient(#d1d6dd, #9198e5);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
